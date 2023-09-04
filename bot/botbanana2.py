@@ -11,7 +11,7 @@ import numpy as np
 
 names = ['not banana', 'banana']
 model = keras.models.load_model('./../newmodel.keras')
-token = "6155680270:AAF5FPto8PY-7YdJM4doKINwZszSDUp9XKo"
+token = ""
 
 
 
